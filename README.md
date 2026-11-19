@@ -31,8 +31,8 @@ python -m http.server 8000
 ```
 
 5. Open `http://localhost:8000` in your browser.
-                    ** OR**
-6. Open project in VS CODE and open new terminal and give command:** start index.html**
+                     OR
+6. Open project in VS CODE and open new terminal and give command: start index.html
 ## How to Play
 1. Double-click on a card to reveal it.
 2. Find another card with the same image.
